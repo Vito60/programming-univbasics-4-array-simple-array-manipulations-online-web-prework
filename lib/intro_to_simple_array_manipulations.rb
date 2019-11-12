@@ -41,4 +41,6 @@ end
 def using_delete(instructors , steven)
   instructors.delete("Steven")
 end
+
+def using_delete_at
   
