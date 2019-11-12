@@ -5,3 +5,7 @@ end
 def using_unshift(bouroughs_in_nyc , new_neighborhood)
   bouroughs_in_nyc.unshift(new_neighborhood)
 end
+
+def deleted_string
+  deleted_string.pop
+end
