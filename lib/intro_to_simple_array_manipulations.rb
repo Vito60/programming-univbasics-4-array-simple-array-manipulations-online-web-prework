@@ -34,5 +34,7 @@ def using_uniq(haircuts)
   haircuts.uniq 
 end
 
-def 
+def using_flatten(instruments)
+  instruments.flatten 
+end
   
