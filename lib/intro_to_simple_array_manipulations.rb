@@ -1,3 +1,3 @@
 def using_push
-  .push("next_color")
+  colors_of_the_rainbow.push("next_color")
 end
