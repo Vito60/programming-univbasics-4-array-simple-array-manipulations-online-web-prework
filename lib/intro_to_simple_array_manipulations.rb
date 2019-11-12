@@ -10,4 +10,5 @@ def using_pop(continents)
   continents.pop
 end
 
-def 
+def pop_with_args
+  
