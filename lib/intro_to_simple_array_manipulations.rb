@@ -26,6 +26,7 @@ def using_concat(all_my_favs , my_favorite_things)
   all_my_favs.concat(my_favorite_things)
 end 
 
-def using_insert(list_of)
-  
+def using_insert(list_of_programming_languages , another_language)
+  list_of_programming_languages.insert(another_language)
+end
   
