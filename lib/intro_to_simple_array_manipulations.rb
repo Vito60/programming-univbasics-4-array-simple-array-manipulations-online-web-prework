@@ -18,7 +18,7 @@ def using_shift(im_so_over_this_city)
   im_so_over_this_city.shift
 end
 
-def shift_with_args(icecream_brands)
-  icecream_brands.shift()
+def shift_with_args(ice_cream_brands)
+  ice_cream_brands.shift(2)
   
   
